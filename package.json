@@ -25,5 +25,17 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "### This Project Look like one calculator",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merupeshpradhan/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merupeshpradhan/Calculator/issues"
+  },
+  "homepage": "https://github.com/merupeshpradhan/Calculator#readme"
 }
